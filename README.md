@@ -1,6 +1,6 @@
 # template_ppgee_ufmg_minds
-Template for dissertation and thesis -- PPGEE UFMG.
+Template para dissertações e teses -- PPGEE UFMG.
 
-This template can be used as a guide for PPGEE/UFMG students for the dissertation and thesis text.
+Este template pode ser utilizado como um guia para os estudantes de mestrado e doutorado do PPGEE e UFMG escreverem seus textos. 
 
-It meets the requirements of the UFMG repository.
+Ele cumpre quase todos os requerimentos que o repositório e biblioteca central exigem. Peço que quem o utilizar e melhorar a versão, faça um pull request da versão mais atual para que ele se mantenha o mais atualizado possível.
